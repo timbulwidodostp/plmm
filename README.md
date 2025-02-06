@@ -1,6 +1,8 @@
 # plmm
 Partially linear mixed effects model Use plmm With (In) R Software
 
+https://www.youtube.com/watch?v=mWjF-VyprPM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
